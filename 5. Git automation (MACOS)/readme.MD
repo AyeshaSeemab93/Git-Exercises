@@ -15,11 +15,11 @@ Before using this script, ensure that you have the following:
 Follow these steps to use the Git Automation Script:
 
 1. **Download the Script:**
-   - Download the `gitAutomation.sh` script to your Mac.
+   - Download the `git-script.sh` script to your Mac.
 
 2. **Edit the Script:**
-   - Open the `gitAutomation.sh` script in a text editor.
-   - Replace `<repository_url>` in the script with the actual URL of the Git repository you want to work with.
+   - Open the `git-script.sh` script in a text editor(Visual Studio Code).
+   - Replace the url in the script with the  URL of the Git repository you want to work with.
 
 3. **Make the Script Executable:**
    - Open your terminal and navigate to the directory where the script is saved.
@@ -27,7 +27,7 @@ Follow these steps to use the Git Automation Script:
 
      ```bash
 
-     chmod +x gitAutomation.sh
+     chmod +x git-script.sh
 
      ```
 
@@ -36,7 +36,7 @@ Follow these steps to use the Git Automation Script:
 
      ```bash
 
-     ./gitAutomation.sh
+     ./git-script.sh
 
      ```
    - The script will perform the following tasks:
